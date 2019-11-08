@@ -1,0 +1,9 @@
+export const CHANGE_NUMBER = 'CHANGE_NUMBER';
+export const CHANGE_NAME = 'CHANGE_NAME';
+export const CHANGE_DATE = 'CHANGE_DATE';
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+export const CHANGE_MULTIPLE_STATUSES = 'CHANGE_MULTIPLE_STATUSES';
+export const ADD_SELECTED = 'ADD_SELECTED';
+export const REMOVE_SELECTED = 'REMOVE_SELECTED';
+export const ADD_ITEM = 'ADD_ITEM';
+export const EXIT = 'AUTHORIZE';
